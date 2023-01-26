@@ -1,0 +1,9 @@
+﻿{
+    "database": {
+        "host": "sql.freedb.tech",
+        "port": 3306,
+        "user": "freedb_syqihatg_simple_crud",
+        "password": "uBHt%%#3jHSG26!",
+        "database": "freedb_syqihatg_simple_crud"
+    }
+}
